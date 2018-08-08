@@ -10,8 +10,10 @@ RPC port   							1337
 P2P port   							31337  
 Maximum Coin Supply   				64 million  
 Number of coins per block awarded	2000 coins
+
 Block spacing						3 minutes  
 Coinbase maturity					10 blocks
+
 Maximum Coin age   					unlimited  
 Minimum Coin age   					15 days  
 Premine amount						100 percent  
